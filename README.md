@@ -1,6 +1,8 @@
 # chatty
 
-A new Flutter project.
+Chatty is a chat app UI built with Flutter.
+
+https://github.com/abimbola-michael/Chatty/assets/89009174/0ed1dda8-be2e-47ab-8c30-1d0bfdd6daa8
 
 ## Getting Started
 
